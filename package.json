@@ -1,0 +1,9 @@
+{
+  "name": "ini-parser",
+  "version": "1.0.0",
+  "description": "An ini-parser written in nodejs",
+  "main": "index.js",
+  "repository": "https://github.com/Sparkenstein/ini-parser",
+  "author": "Sparkenstein",
+  "license": "MIT"
+}
