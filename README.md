@@ -1,4 +1,5 @@
 # ini-parser
+
 Simple ini parser written in NodeJS.
 
 #### Installation
